@@ -8,7 +8,7 @@
 - [x] eslint
 - [x] prettier
 - [x] vite
-- [ ] tailwincss
+- [x] tailwincss
 - [ ] none
 - [ ] none
 - [ ] none
